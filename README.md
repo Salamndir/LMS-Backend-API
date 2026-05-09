@@ -54,3 +54,18 @@ Email: trainee@lms.com
 Password: 123
 
 Permissions: Read-only (View courses)
+
+
+
+> **⚠️  IMPORTANT: DEMO NOTICE**
+> This project is a demo. Simple passwords like `123` are used for easy testing in local environment only. A real production app would enforce:
+> * **Strong Passwords:**
+> * **Login Protection:** (Rate Limiting).
+> * **Secure Tokens:** (short expirations and refresh tokens).
+
+
+
+
+
+
+
